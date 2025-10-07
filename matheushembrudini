@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>romero - Portfolio</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+<h1>morteritor</h1>
+</header>
+<nav>
+</nav>
+<main>
+<section>
+<h2>I do triathlon</h2>
+<p>I am 17 years old and i am an athlete.</p>
+</section>
+<section>
+<h2>Logbait</h2>
+<p>i run swim and bike</p>
+</section>
+<section>
+<h2>Contact / More Info</h2>
+<p>call morter</p>
+</section>
+</main>
+<footer>
+<p>© 2024 Romero. All rights reserved.</p>
+</footer>
+</body>
+  
+</html>
